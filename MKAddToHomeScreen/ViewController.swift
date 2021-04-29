@@ -61,7 +61,7 @@ class ViewController: UIViewController {
     
     
     @IBAction func addMethod3(_ sender: Any) {
-        let urlStr = "https://run.mocky.io/v3/20a8cb04-b526-4ea9-8d11-c47cd0a9d08c"
+        let urlStr = "https://run.mocky.io/v3/9631f29a-6781-4713-a481-f29eab9bc78b"
         if let url = URL(string: urlStr) {
             UIApplication.shared.open(url, options: [:], completionHandler: nil)
         }
