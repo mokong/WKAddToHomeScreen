@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4843EB1826329BE700F738D5 /* content3-middle.html in Resources */ = {isa = PBXBuildFile; fileRef = 4843EB1726329BE700F738D5 /* content3-middle.html */; };
 		4843EB1B2632A01E00F738D5 /* homescreen.png in Resources */ = {isa = PBXBuildFile; fileRef = 4843EB1A2632A01E00F738D5 /* homescreen.png */; };
 		4843EB1F2632A3B700F738D5 /* content2.html in Resources */ = {isa = PBXBuildFile; fileRef = 4843EB1E2632A3B700F738D5 /* content2.html */; };
 		4843EB262632B78000F738D5 /* content1.html in Resources */ = {isa = PBXBuildFile; fileRef = 4843EB252632B78000F738D5 /* content1.html */; };
@@ -25,7 +24,6 @@
 
 /* Begin PBXFileReference section */
 		160C1BE8F2390E592D8AFB54 /* Pods-MKAddToHomeScreen.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MKAddToHomeScreen.release.xcconfig"; path = "Target Support Files/Pods-MKAddToHomeScreen/Pods-MKAddToHomeScreen.release.xcconfig"; sourceTree = "<group>"; };
-		4843EB1726329BE700F738D5 /* content3-middle.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = "content3-middle.html"; sourceTree = "<group>"; };
 		4843EB1A2632A01E00F738D5 /* homescreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = homescreen.png; sourceTree = "<group>"; };
 		4843EB1E2632A3B700F738D5 /* content2.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = content2.html; sourceTree = "<group>"; };
 		4843EB252632B78000F738D5 /* content1.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = content1.html; sourceTree = "<group>"; };
@@ -113,7 +111,6 @@
 		486562DD2631839C00F14371 /* method3 */ = {
 			isa = PBXGroup;
 			children = (
-				4843EB1726329BE700F738D5 /* content3-middle.html */,
 				486562DE263183CA00F14371 /* content3.html */,
 			);
 			path = method3;
@@ -200,7 +197,6 @@
 				4843EB1F2632A3B700F738D5 /* content2.html in Resources */,
 				486562DF263183CA00F14371 /* content3.html in Resources */,
 				4843EB262632B78000F738D5 /* content1.html in Resources */,
-				4843EB1826329BE700F738D5 /* content3-middle.html in Resources */,
 				486562CE2631828100F14371 /* Main.storyboard in Resources */,
 				4843EB1B2632A01E00F738D5 /* homescreen.png in Resources */,
 			);
