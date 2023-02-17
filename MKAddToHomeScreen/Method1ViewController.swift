@@ -2,7 +2,7 @@
 //  Method1ViewController.swift
 //  MKAddToHomeScreen
 //
-//  Created by Horizon on 2021/4/22.
+//  Created by MorganWang on 2021/4/22.
 //
 
 import UIKit
